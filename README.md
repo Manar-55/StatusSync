@@ -65,7 +65,8 @@ The project includes screenshots showing:
 
 A short demonstration of the status update feature, showing how the status changes instantly without refreshing the page.
 
-▶️ `toggle-demo.mp4`
+https://github.com/user-attachments/assets/ba839984-95eb-426d-9da2-fbeedd0427c4
+
 
 ## 👩‍💻 Author
 Manar
